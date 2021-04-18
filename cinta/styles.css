@@ -19,7 +19,7 @@ html, body {background-color: #fff;
 	font-family: "Trebuchet MS, Helvetica, sans-serif, Arial"
 }
 
-h1 { padding-bottom: 5px;     padding-top: 5px;     font-size: 21px;     margin-bottom: 10px;     text-align: center;  background-color: #d8e3e7;   border-style: solid;     border-bottom: double #666;     border-top: double;     border-left: 0px;     border-right: 0px;     border-radius: 0px;     line-height: 1;     font-family: "sans;georgia;arial" }
+h1 { padding-bottom: 5px;     padding-top: 5px;     font-size: 21px;     margin-bottom: 10px;     text-align: center;  background-color: #91c788;   border-style: solid;     border-bottom: double #666;     border-top: double;     border-left: 0px;     border-right: 0px;     border-radius: 0px;     line-height: 1;     font-family: "sans;georgia;arial" }
 
 #t h1 {
     padding-bottom: 5px;

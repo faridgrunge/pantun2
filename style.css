@@ -24,7 +24,7 @@ a:visited {
 }
 
 #simple li {
-  background: #e0ecf8;
+  background: #ddffbc;
   border-bottom: 7px solid #fff;
   list-style: none;
   padding: 0.5em;
@@ -51,7 +51,7 @@ h2 {
   font-size: 22px;
   margin-bottom: 10px;
   text-align: center;
-  background-color: #d8e3e7;
+  background-color: #91c788;
   border-style: solid;
   border-bottom: double #666;
   border-top: double;
